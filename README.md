@@ -7,5 +7,6 @@
  - Julian Steccanella
  - Lazzaro Ursula
 
-[Product Backlog.pdf](https://github.com/user-attachments/files/27615616/Product.Backlog.pdf)
+[Product Backlog.xlsx](https://github.com/user-attachments/files/27615632/Product.Backlog.xlsx)
+
 
