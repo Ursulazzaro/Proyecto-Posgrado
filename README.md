@@ -5,7 +5,7 @@
  - Jonathan Daniel Santurio
  - Matias Garcia Vidal
  - Julian Steccanella
- - Lazzaro Ursula
+ - Ursula Lazzaro
 
 [Product Backlog.xlsx](https://github.com/user-attachments/files/27615632/Product.Backlog.xlsx)
 
